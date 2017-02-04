@@ -133,6 +133,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi"/>
 		<Item Name="5492_YawDecision.vi" Type="VI" URL="../5492_YawDecision.vi"/>
 		<Item Name="5492_YawParser.vi" Type="VI" URL="../5492_YawParser.vi"/>
+		<Item Name="5492_ZeroYawCheck.vi" Type="VI" URL="../5492_ZeroYawCheck.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
