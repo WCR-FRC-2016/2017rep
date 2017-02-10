@@ -126,7 +126,6 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
 		<Item Name="5492_Change_Mode.vi" Type="VI" URL="../5492_Change_Mode.vi"/>
-		<Item Name="5492_ClimbCode_2017.vi" Type="VI" URL="../5492_ClimbCode_2017.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../5492_TalonPositionCheck.vi"/>
@@ -547,7 +546,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
-			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 			<Item Name="5492_WPI_JoystickArcadeMapping.vi" Type="VI" URL="../5492_WPI_JoystickArcadeMapping.vi"/>
 			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../5492_WPI_MotorControlSetOutput.vi"/>
 			<Item Name="5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi" Type="VI" URL="../5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi"/>
@@ -593,7 +591,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
