@@ -130,6 +130,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../5492_TalonPositionCheck.vi"/>
+		<Item Name="5492_TaylorSeriesNaturalLog.vi" Type="VI" URL="../5492_TaylorSeriesNaturalLog.vi"/>
 		<Item Name="5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi"/>
 		<Item Name="5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi"/>
 		<Item Name="5492_YawDecision.vi" Type="VI" URL="../5492_YawDecision.vi"/>
@@ -506,7 +507,6 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_RobotDriveArcadeDrive.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveArcadeDrive.vi"/>
 				<Item Name="WPI_RobotDriveArcadeDrive_ButtonSpin.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveArcadeDrive_ButtonSpin.vi"/>
 				<Item Name="WPI_RobotDriveArcadeDrive_RatioCurve.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveArcadeDrive_RatioCurve.vi"/>
-				<Item Name="WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi"/>
 				<Item Name="WPI_RobotDriveClose.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveClose.vi"/>
 				<Item Name="WPI_RobotDriveDelayAndUpdateSafety.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveDelayAndUpdateSafety.vi"/>
 				<Item Name="WPI_RobotDriveDevRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveDevRef.ctl"/>
