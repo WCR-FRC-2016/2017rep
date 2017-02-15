@@ -127,6 +127,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
 		<Item Name="5492_Change_Mode.vi" Type="VI" URL="../5492_Change_Mode.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
+		<Item Name="5492_DriveOrientation.vi" Type="VI" URL="../5492_DriveOrientation.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../5492_TalonPositionCheck.vi"/>
 		<Item Name="5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi"/>
