@@ -548,11 +548,10 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesFRCAutomaticValuePublisher.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesFRCAutomaticValuePublisher.vi"/>
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
-				<Item Name="Z900_navX_Get_YPRHfH.vi" Type="VI" URL="/&lt;vilib&gt;/navX Library v2/Get/Z900_navX_Get_YPRHfH.vi"/>
-				<Item Name="Z900_navX_RefNum_Get.vi" Type="VI" URL="/&lt;vilib&gt;/navX Library v2/RefNum/Z900_navX_RefNum_Get.vi"/>
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_InchToEncoderPulses.vi" Type="VI" URL="../5492_InchToEncoderPulses.vi"/>
+			<Item Name="5492_NoEncoderAutonomousStraight.vi" Type="VI" URL="../5492_NoEncoderAutonomousStraight.vi"/>
 			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 			<Item Name="5492_WPI_JoystickArcadeMapping.vi" Type="VI" URL="../5492_WPI_JoystickArcadeMapping.vi"/>
 			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../5492_WPI_MotorControlSetOutput.vi"/>
