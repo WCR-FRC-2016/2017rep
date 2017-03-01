@@ -131,6 +131,8 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_ClimbCode_2017.vi" Type="VI" URL="../5492_ClimbCode_2017.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_GearButtonControlNoLimitSwitches.vi" Type="VI" URL="../5492_GearButtonControlNoLimitSwitches.vi"/>
+		<Item Name="5492_PixyToPower.vi" Type="VI" URL="../5492_PixyToPower.vi"/>
+		<Item Name="5492_PixyToRPM.vi" Type="VI" URL="../5492_PixyToRPM.vi"/>
 		<Item Name="5492_RPMToTalonVelocity.vi" Type="VI" URL="../5492_RPMToTalonVelocity.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../5492_TalonPositionCheck.vi"/>
@@ -172,6 +174,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Convert String to NT String Array Buffer.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Convert String to NT String Array Buffer.vi"/>
 				<Item Name="Convert String to NT String Buffer.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Convert String to NT String Buffer.vi"/>
 				<Item Name="Create Actual Table Name.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Create Actual Table Name.vi"/>
+				<Item Name="CTRE_CANTalonSRX_UpdateUsage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/CTRE_CANTalonSRX_UpdateUsage.vi"/>
+				<Item Name="CTRE_CANTalonSRX_UsageTypes.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/CTRE_CANTalonSRX_UsageTypes.ctl"/>
 				<Item Name="Decode String Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Decode String Array.vi"/>
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -635,7 +639,6 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_DriveOrientation.vi" Type="VI" URL="../5492_DriveOrientation.vi"/>
-			<Item Name="5492_Get_YPRHfH.vi" Type="VI" URL="../5492_Get_YPRHfH.vi"/>
 			<Item Name="5492_InchToEncoderPulses.vi" Type="VI" URL="../5492_InchToEncoderPulses.vi"/>
 			<Item Name="5492_NoEncoderAutonomousStraight.vi" Type="VI" URL="../5492_NoEncoderAutonomousStraight.vi"/>
 			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
