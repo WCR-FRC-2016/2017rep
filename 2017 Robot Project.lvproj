@@ -131,7 +131,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_ClimbCode_2017.vi" Type="VI" URL="../5492_ClimbCode_2017.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_GearButtonControlNoLimitSwitches.vi" Type="VI" URL="../5492_GearButtonControlNoLimitSwitches.vi"/>
-		<Item Name="5492_PixyToPower.vi" Type="VI" URL="../5492_PixyToPower.vi"/>
+		<Item Name="5492_InitialYaw.vi" Type="VI" URL="../5492_InitialYaw.vi"/>
 		<Item Name="5492_PixyToRPM.vi" Type="VI" URL="../5492_PixyToRPM.vi"/>
 		<Item Name="5492_RPMToTalonVelocity.vi" Type="VI" URL="../5492_RPMToTalonVelocity.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
@@ -141,6 +141,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi"/>
 		<Item Name="5492_YawDecision.vi" Type="VI" URL="../5492_YawDecision.vi"/>
 		<Item Name="5492_YawParser.vi" Type="VI" URL="../5492_YawParser.vi"/>
+		<Item Name="5492_ZeroYaw.vi" Type="VI" URL="../5492_ZeroYaw.vi"/>
 		<Item Name="5492_ZeroYawCheck.vi" Type="VI" URL="../5492_ZeroYawCheck.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -633,7 +634,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Z900_navX_Util_EncodeProtocol_UnsignedHundredths.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_Util/Encode Protocol/Z900_navX_Util_EncodeProtocol_UnsignedHundredths.vi"/>
 				<Item Name="Z900_navX_Util_LittleEndian_to_BigEndian.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_Util/Z900_navX_Util_LittleEndian_to_BigEndian.vi"/>
 				<Item Name="Z900_navX_ZeroVectorTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_TypeDefs/Z900_navX_ZeroVectorTypeDef.ctl"/>
-				<Item Name="Zero Yaw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Yaw.vi"/>
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_DriveOrientation.vi" Type="VI" URL="../5492_DriveOrientation.vi"/>
