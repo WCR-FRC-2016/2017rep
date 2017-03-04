@@ -127,10 +127,12 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
 		<Item Name="5492_BallShooter.vi" Type="VI" URL="../5492_BallShooter.vi"/>
 		<Item Name="5492_Change_Mode.vi" Type="VI" URL="../5492_Change_Mode.vi"/>
+		<Item Name="5492_ChangeMasterMode.vi" Type="VI" URL="../5492_ChangeMasterMode.vi"/>
 		<Item Name="5492_CheckSpeedPID.vi" Type="VI" URL="../5492_CheckSpeedPID.vi"/>
 		<Item Name="5492_ClimbCode_2017.vi" Type="VI" URL="../5492_ClimbCode_2017.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_GearButtonControlNoLimitSwitches.vi" Type="VI" URL="../5492_GearButtonControlNoLimitSwitches.vi"/>
+		<Item Name="5492_GearShake.vi" Type="VI" URL="../5492_GearShake.vi"/>
 		<Item Name="5492_InitialYaw.vi" Type="VI" URL="../5492_InitialYaw.vi"/>
 		<Item Name="5492_PixyToRPM.vi" Type="VI" URL="../5492_PixyToRPM.vi"/>
 		<Item Name="5492_RPMToTalonVelocity.vi" Type="VI" URL="../5492_RPMToTalonVelocity.vi"/>
