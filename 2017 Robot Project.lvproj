@@ -131,7 +131,6 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_ClimbCode_2017.vi" Type="VI" URL="../5492_ClimbCode_2017.vi"/>
 		<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
 		<Item Name="5492_GearButtonControlNoLimitSwitches.vi" Type="VI" URL="../5492_GearButtonControlNoLimitSwitches.vi"/>
-		<Item Name="5492_PixyToPower.vi" Type="VI" URL="../5492_PixyToPower.vi"/>
 		<Item Name="5492_PixyToRPM.vi" Type="VI" URL="../5492_PixyToRPM.vi"/>
 		<Item Name="5492_RPMToTalonVelocity.vi" Type="VI" URL="../5492_RPMToTalonVelocity.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
