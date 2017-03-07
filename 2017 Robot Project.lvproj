@@ -639,15 +639,20 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_DriveOrientation.vi" Type="VI" URL="../5492_DriveOrientation.vi"/>
-			<Item Name="5492_InchToEncoderPulses.vi" Type="VI" URL="../5492_InchToEncoderPulses.vi"/>
+			<Item Name="5492_InchToEncoderPulses.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_InchToEncoderPulses.vi"/>
 			<Item Name="5492_NoEncoderAutonomousStraight.vi" Type="VI" URL="../5492_NoEncoderAutonomousStraight.vi"/>
 			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 			<Item Name="5492_OrientationButtonPress.vi" Type="VI" URL="../5492_OrientationButtonPress.vi"/>
+			<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_SetTalonSensorPosSync.vi"/>
+			<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_TalonPositionCheck.vi"/>
 			<Item Name="5492_WPI_JoystickArcadeMapping.vi" Type="VI" URL="../5492_WPI_JoystickArcadeMapping.vi"/>
+			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_MotorControlSetOutput.vi"/>
 			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../5492_WPI_MotorControlSetOutput.vi"/>
 			<Item Name="5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi" Type="VI" URL="../5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi"/>
+			<Item Name="5492_WPI_RobotDriveGetMotorControlReference.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_RobotDriveGetMotorControlReference.vi"/>
 			<Item Name="5492_WPI_RobotDriveGetMotorControlReference.vi" Type="VI" URL="../5492_WPI_RobotDriveGetMotorControlReference.vi"/>
 			<Item Name="5492_WPI_RobotDriveMotors.vi" Type="VI" URL="../5492_WPI_RobotDriveMotors.vi"/>
+			<Item Name="5492_WPI_RobotDriveMotorSelectorEnum.ctl" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_RobotDriveMotorSelectorEnum.ctl"/>
 			<Item Name="5492_WPI_RobotDriveMotorSelectorEnum.ctl" Type="VI" URL="../5492_WPI_RobotDriveMotorSelectorEnum.ctl"/>
 			<Item Name="5492_WPI_RobotDriveRefNum Registry Set.vi" Type="VI" URL="../5492_WPI_RobotDriveRefNum Registry Set.vi"/>
 			<Item Name="5492_WPI_RobotDriveRegisterEachMotor.vi" Type="VI" URL="../5492_WPI_RobotDriveRegisterEachMotor.vi"/>
