@@ -452,6 +452,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_CANTalonSRX_BrakeOverride.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_BrakeOverride.ctl"/>
 				<Item Name="WPI_CANTalonSRX_ChangeMode.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_ChangeMode.vi"/>
 				<Item Name="WPI_CANTalonSRX_ConfigLimitSwitches.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_ConfigLimitSwitches.vi"/>
+				<Item Name="WPI_CANTalonSRX_ConfigStatusFrameRate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_ConfigStatusFrameRate.vi"/>
 				<Item Name="WPI_CANTalonSRX_ControlMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_ControlMode.ctl"/>
 				<Item Name="WPI_CANTalonSRX_DeduceControlIMsgId.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_DeduceControlIMsgId.vi"/>
 				<Item Name="WPI_CANTalonSRX_Disable.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_Disable.vi"/>
@@ -475,6 +476,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_CANTalonSRX_SetPID.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_SetPID.vi"/>
 				<Item Name="WPI_CANTalonSRX_SetReference.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_SetReference.vi"/>
 				<Item Name="WPI_CANTalonSRX_SetSensorPosition.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_SetSensorPosition.vi"/>
+				<Item Name="WPI_CANTalonSRX_StatusFrame.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_StatusFrame.ctl"/>
 				<Item Name="WPI_DefaultPWMConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/WPI_DefaultPWMConstants.vi"/>
 				<Item Name="WPI_DigitalModuleDeviceRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleDeviceRef.ctl"/>
 				<Item Name="WPI_DigitalModuleGetPWM.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleGetPWM.vi"/>
@@ -639,20 +641,14 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_DriveOrientation.vi" Type="VI" URL="../5492_DriveOrientation.vi"/>
-			<Item Name="5492_InchToEncoderPulses.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_InchToEncoderPulses.vi"/>
 			<Item Name="5492_NoEncoderAutonomousStraight.vi" Type="VI" URL="../5492_NoEncoderAutonomousStraight.vi"/>
 			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 			<Item Name="5492_OrientationButtonPress.vi" Type="VI" URL="../5492_OrientationButtonPress.vi"/>
-			<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_SetTalonSensorPosSync.vi"/>
-			<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_TalonPositionCheck.vi"/>
 			<Item Name="5492_WPI_JoystickArcadeMapping.vi" Type="VI" URL="../5492_WPI_JoystickArcadeMapping.vi"/>
-			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_MotorControlSetOutput.vi"/>
 			<Item Name="5492_WPI_MotorControlSetOutput.vi" Type="VI" URL="../5492_WPI_MotorControlSetOutput.vi"/>
 			<Item Name="5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi" Type="VI" URL="../5492_WPI_RobotDriveArcadeDrive_Standard(NoSaturation).vi"/>
-			<Item Name="5492_WPI_RobotDriveGetMotorControlReference.vi" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_RobotDriveGetMotorControlReference.vi"/>
 			<Item Name="5492_WPI_RobotDriveGetMotorControlReference.vi" Type="VI" URL="../5492_WPI_RobotDriveGetMotorControlReference.vi"/>
 			<Item Name="5492_WPI_RobotDriveMotors.vi" Type="VI" URL="../5492_WPI_RobotDriveMotors.vi"/>
-			<Item Name="5492_WPI_RobotDriveMotorSelectorEnum.ctl" Type="VI" URL="../../../../../../frc/Downloads/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/2017rep-85ec803e2b097361a3ad1026481cb71922bdf88b/5492_WPI_RobotDriveMotorSelectorEnum.ctl"/>
 			<Item Name="5492_WPI_RobotDriveMotorSelectorEnum.ctl" Type="VI" URL="../5492_WPI_RobotDriveMotorSelectorEnum.ctl"/>
 			<Item Name="5492_WPI_RobotDriveRefNum Registry Set.vi" Type="VI" URL="../5492_WPI_RobotDriveRefNum Registry Set.vi"/>
 			<Item Name="5492_WPI_RobotDriveRegisterEachMotor.vi" Type="VI" URL="../5492_WPI_RobotDriveRegisterEachMotor.vi"/>
@@ -694,7 +690,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
