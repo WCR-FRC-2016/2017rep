@@ -98,7 +98,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
-		<Item Name="5492_BallShooter.vi" Type="VI" URL="../../../../../5492_BallShooter.vi"/>
+		<Item Name="5492_BallShooter.vi" Type="VI" URL="../5492_BallShooter.vi"/>
 		<Item Name="5492_Change_Mode.vi" Type="VI" URL="../5492_Change_Mode.vi"/>
 		<Item Name="5492_ChangeMasterMode.vi" Type="VI" URL="../5492_ChangeMasterMode.vi"/>
 		<Item Name="5492_YawDecision.vi" Type="VI" URL="../5492_YawDecision.vi"/>
