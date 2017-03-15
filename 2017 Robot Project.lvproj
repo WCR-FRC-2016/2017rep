@@ -112,12 +112,12 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_RPMToTalonVelocity.vi" Type="VI" URL="../5492_RPMToTalonVelocity.vi"/>
 		<Item Name="5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen6MotorWithTalonSRXPosition.vi"/>
 		<Item Name="5492_InitialYaw.vi" Type="VI" URL="../5492_InitialYaw.vi"/>
+		<Item Name="5492_ZeroYaw.vi" Type="VI" URL="../5492_ZeroYaw.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_TalonPositionCheck.vi" Type="VI" URL="../5492_TalonPositionCheck.vi"/>
 		<Item Name="5492_TaylorSeriesNaturalLog.vi" Type="VI" URL="../5492_TaylorSeriesNaturalLog.vi"/>
 		<Item Name="5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi" Type="VI" URL="../5492_WPI_RobotDriveOpen4MotorWithTalonSRX_Position.vi"/>
 		<Item Name="5492_YawParser.vi" Type="VI" URL="../5492_YawParser.vi"/>
-		<Item Name="5492_ZeroYaw.vi" Type="VI" URL="../5492_ZeroYaw.vi"/>
 		<Item Name="5492_ZeroYawCheck.vi" Type="VI" URL="../5492_ZeroYawCheck.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -633,6 +633,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="PixyI2C_Parser.vi" Type="VI" URL="../PixyI2C_Parser.vi"/>
+			<Item Name="5492_BallShooter.vi" Type="VI" URL="../5492_BallShooter.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
