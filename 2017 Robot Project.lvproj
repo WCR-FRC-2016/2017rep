@@ -120,6 +120,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="5492_GearButtonControlNoLimitSwitches.vi" Type="VI" URL="../5492_GearButtonControlNoLimitSwitches.vi"/>
 		<Item Name="5492_GlobalShooting.vi" Type="VI" URL="../5492_GlobalShooting.vi"/>
+		<Item Name="5492_AutonomousStraightVision.vi" Type="VI" URL="../5492_AutonomousStraightVision.vi"/>
+		<Item Name="5492_PullContourNTValues.vi" Type="VI" URL="../5492_PullContourNTValues.vi"/>
+		<Item Name="5492_IndexIndexes.vi" Type="VI" URL="../5492_IndexIndexes.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
