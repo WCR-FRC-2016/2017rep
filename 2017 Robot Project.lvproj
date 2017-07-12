@@ -123,6 +123,8 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutonomousStraightVision.vi" Type="VI" URL="../5492_AutonomousStraightVision.vi"/>
 		<Item Name="5492_PullContourNTValues.vi" Type="VI" URL="../5492_PullContourNTValues.vi"/>
 		<Item Name="5492_IndexIndexes.vi" Type="VI" URL="../5492_IndexIndexes.vi"/>
+		<Item Name="5492_PixelHeightCheck.vi" Type="VI" URL="../5492_PixelHeightCheck.vi"/>
+		<Item Name="5492_GetTargetAngle.vi" Type="VI" URL="../5492_GetTargetAngle.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
